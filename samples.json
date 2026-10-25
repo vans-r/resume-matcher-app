@@ -1,0 +1,44 @@
+{
+  "note": "All people, companies, emails and phone numbers are invented for teaching.",
+  "resumes": {
+    "R1_data_analyst": {
+      "label": "Ananya Rao, Data Analyst (1 yr)",
+      "best_for": "J1_data_analyst",
+      "text": "ANANYA RAO\nBengaluru | ananya.rao@example.com | +91 98765 43210\n\nSUMMARY\nData analyst with one year of experience turning sales data into dashboards and weekly business reviews.\n\nEXPERIENCE\nData Analyst, BrightCart Retail (Jul 2025 - present)\n- Wrote SQL queries (joins, window functions) on a 20 million row sales database to track store performance.\n- Built 6 Power BI dashboards used by 40 regional managers; cut weekly reporting time from 2 days to 3 hours.\n- Cleaned and merged data with Python (pandas) and Excel (pivot tables, XLOOKUP).\nAnalytics Intern, Northwind Foods (Jan 2025 - Jun 2025)\n- Analysed customer churn in Excel and presented findings to the marketing team.\n\nSKILLS\nSQL, Excel, Power BI, Python (pandas, matplotlib), data cleaning, dashboarding, presenting insights\n\nEDUCATION\nB.Sc. Statistics, Christ University, 2024"
+    },
+    "R2_ml_engineer": {
+      "label": "Vikram Shah, ML Engineer (3 yrs)",
+      "best_for": "J2_ml_engineer",
+      "text": "VIKRAM SHAH\nPune | vikram.shah@example.com | +91 91234 56780\n\nSUMMARY\nMachine learning engineer with 3 years of experience building and deploying credit risk and fraud models.\n\nEXPERIENCE\nML Engineer, LendSure Fintech (Aug 2023 - present)\n- Built fraud detection models with scikit-learn and PyTorch; improved recall by 18% at the same false-positive rate.\n- Deployed models as FastAPI services in Docker containers on AWS (ECS, S3, SageMaker).\n- Set up experiment tracking and a model registry with MLflow; added drift monitoring.\nData Scientist, Quantix Labs (Jul 2022 - Jul 2023)\n- Trained gradient boosting models (XGBoost) for customer propensity; wrote SQL feature pipelines.\n\nSKILLS\nPython, scikit-learn, PyTorch, XGBoost, SQL, Docker, FastAPI, AWS, MLflow, Git, CI/CD\n\nEDUCATION\nB.Tech Computer Science, VIT Vellore, 2022"
+    },
+    "R3_frontend": {
+      "label": "Meera Iyer, Frontend Developer (2 yrs)",
+      "best_for": "J3_frontend",
+      "text": "MEERA IYER\nChennai | meera.iyer@example.com | +91 99887 76655\n\nSUMMARY\nFrontend developer with 2 years of experience building fast, accessible web apps for SaaS products.\n\nEXPERIENCE\nFrontend Developer, CloudDesk SaaS (Jun 2024 - present)\n- Built the customer dashboard in React and TypeScript, used by 15,000 businesses.\n- Moved styling to Tailwind CSS and cut CSS size by 60%.\n- Wrote unit tests with Jest and React Testing Library (85% coverage); integrated REST APIs.\nWeb Developer Intern, PixelCraft Studio (Dec 2023 - May 2024)\n- Turned Figma designs into responsive pages with HTML, CSS and JavaScript.\n\nSKILLS\nReact, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Jest, REST APIs, Git, Figma, accessibility\n\nEDUCATION\nB.E. Information Technology, Anna University, 2024"
+    },
+    "R4_marketing": {
+      "label": "Rohan Gupta, Digital Marketing (2 yrs)",
+      "best_for": "",
+      "text": "ROHAN GUPTA\nDelhi | rohan.gupta@example.com | +91 90000 11122\n\nSUMMARY\nDigital marketing executive who grows website traffic and leads through search and social campaigns.\n\nEXPERIENCE\nDigital Marketing Executive, TravelNest (Mar 2024 - present)\n- Managed Google Ads and Meta Ads campaigns with a monthly budget of Rs 8 lakh; lowered cost per lead by 22%.\n- Improved organic traffic 2x through SEO: keyword research, on-page fixes and blog content.\n- Built campaign reports in Google Analytics 4 and Excel.\n\nSKILLS\nSEO, Google Ads, Meta Ads, Google Analytics 4, content writing, Excel, email marketing\n\nEDUCATION\nBBA Marketing, Delhi University, 2023"
+    },
+    "R5_business_analyst": {
+      "label": "Sara Khan, Business Analyst (2 yrs)",
+      "best_for": "",
+      "text": "SARA KHAN\nHyderabad | sara.khan@example.com | +91 93456 78901\n\nSUMMARY\nBusiness analyst who connects business teams and developers, with hands-on SQL and reporting.\n\nEXPERIENCE\nBusiness Analyst, MedFlow Health Tech (May 2024 - present)\n- Gathered requirements from 5 hospital clients and wrote user stories in Jira.\n- Mapped claim-processing workflows and found steps that cut turnaround time by 30%.\n- Wrote SQL queries for monthly operational reports; built a basic Power BI report for the operations head.\nOperations Associate, CareFirst Insurance (Jun 2023 - Apr 2024)\n- Tracked claim backlogs in Excel and presented weekly updates.\n\nSKILLS\nRequirements gathering, Jira, SQL, Excel, Power BI (basic), process mapping, stakeholder management\n\nEDUCATION\nMBA Operations, Symbiosis Pune, 2023"
+    }
+  },
+  "jobs": {
+    "J1_data_analyst": {
+      "label": "Data Analyst, retail analytics",
+      "text": "Data Analyst - Retail Analytics (Bengaluru, 0-2 years)\n\nAbout the role\nJoin our analytics team to help store and category managers make better decisions with data.\n\nWhat you will do\n- Write SQL to pull and combine sales, inventory and customer data.\n- Build and maintain dashboards in Power BI or Tableau.\n- Analyse trends and present clear recommendations to business teams.\n\nMust have\n- Strong SQL (joins, aggregations, window functions)\n- Advanced Excel\n- Power BI or Tableau\n- Clear communication of insights\n\nNice to have\n- Python (pandas) for data cleaning\n- Retail or e-commerce experience"
+    },
+    "J2_ml_engineer": {
+      "label": "Machine Learning Engineer, fintech",
+      "text": "Machine Learning Engineer - Fintech (Pune / Remote, 2-5 years)\n\nAbout the role\nBuild and run the machine learning models behind our lending and fraud decisions.\n\nWhat you will do\n- Develop models in Python with scikit-learn or PyTorch.\n- Deploy models as APIs (FastAPI or Flask) in Docker containers.\n- Run them on AWS and monitor performance and data drift.\n\nMust have\n- 2+ years building production ML models\n- Python, scikit-learn and/or PyTorch\n- Docker and REST API deployment\n- Cloud experience (AWS preferred)\n\nNice to have\n- MLflow or another MLOps tool\n- Credit risk or fraud domain experience"
+    },
+    "J3_frontend": {
+      "label": "Frontend Developer, SaaS",
+      "text": "Frontend Developer - B2B SaaS (Chennai, 1-3 years)\n\nAbout the role\nBuild the screens our customers use every day, with a focus on speed and accessibility.\n\nWhat you will do\n- Build features in React with TypeScript.\n- Style components with CSS and Tailwind CSS.\n- Write tests and work with backend engineers on REST APIs.\n\nMust have\n- React and TypeScript\n- HTML and CSS (Tailwind is a plus)\n- Unit testing (Jest or similar)\n- Consuming REST APIs\n\nNice to have\n- Accessibility (WCAG) knowledge\n- Experience turning Figma designs into components"
+    }
+  }
+}
